@@ -1,0 +1,3 @@
+Ticket #:19956
+Objective: Fresh install of windows on new HDD
+HDD S/N:WCC2E5EESLPX
