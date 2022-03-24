@@ -63,7 +63,7 @@ Storage capacity: 97.6 GB | 35.7 GB used | 61.9 GB free
 RAM: 4GB | Healthy
 Windows Version: 7 | Upgraded to windows 10
 System type: 32 bit
-Notes:	- Repurposing for Sheril McEwen 
+Notes:	- Repurposing for Sheril McEwen | Repurpose transferred to HCQ09
 	- Need network account password to change computer name
 	- 
 
@@ -82,7 +82,7 @@ Windows Version: Windows 10
 System type: 64 bit
 Notes: 	- Optical Drive ejecting intermittently 
 
-Name: HQC09 
+Name: HQC09 --> MTR006
 Serial#: 6PBQRD1
 Original IP address: 10.0.22.103
 Subnet Mask: 255.255.255.0
@@ -97,7 +97,7 @@ Windows Version: Windows 10
 System type: 64 bit
 Notes: 	- RAM upgrade recommended | RAM Upgraded from 3GB to 4GB
 	- Windows not activated
-	- Display defect.
+	- Repurposed for Motor Dept. Sheril McEwen | Renamed to MTR006
 
 Name: 
 Serial#: 
