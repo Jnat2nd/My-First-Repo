@@ -18,7 +18,7 @@ System type: 32 bit
 Notes: 	- Ribbon on underside of HDD slightly damaged; does not prevent regular operation
 	- 0 errors on HDD test
 	- 0xC1900101 - 0x30018 
-	  The installation failed in the FIRST_BOOT phase with an error during SYSPREP operation. We couldn’t install Windows 10. We’ve set your PC back to the way it was right before you started installing Windows 10.
+	  The installation failed in the FIRST_BOOT phase with an error during SYSPREP operation. We couldn’t install Windows 10. We’ve set your PC back to the way it was right before you started installing Windows 10. | Recommend fresh install of windows 
 	- Windows 7 update errors 80092004, 8024200D, 8007000E | Solved
 
 Name: FMSPOS04
@@ -36,7 +36,7 @@ Notes: 	- Slow
 	- 0 errors on HDD test
 	- updated windows 10
 
-Name: FKJBSPARE
+Name: FKJBSPARE/FLRPOS07
 Original IP address: DHCP
 Subnet Mask: 
 Default Gateway: 
