@@ -1,3 +1,11 @@
-Ticket #:19956
+Ticket#:19956
 Objective: Fresh install of windows on new HDD
 HDD S/N:WCC2E5EESLPX
+
+Ticekt#:20012
+pc not powering on 
+blinking power led: 3,1 
+reseated ram, powered on 
+onboard diagnostics HDD error: 2000-0142
+recommend reapplying thermal paste
+
